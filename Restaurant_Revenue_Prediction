@@ -1,4 +1,4 @@
-##About the Data:
+About the Data:
 The provided training set is only 137 rows long! Each row describes a restaurant in Turkey operated by TFI foods, the competition
 sponsor. Most of the features are anonymized and labeled P1 through P38, they appear to be categorical. There are a handful of better 
 described columns, such as opening date, restaurant type and city. The test set officially has 100,000 rows, but in reality most 
